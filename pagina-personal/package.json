@@ -1,0 +1,15 @@
+{
+  "name": "pagina-personal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "pagina",
+    "html"
+  ],
+  "author": "carlos sanchez",
+  "license": "ISC"
+}

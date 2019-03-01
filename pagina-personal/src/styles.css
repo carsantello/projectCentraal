@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: black;
+  padding: 20px;
+  font-size: 16px;
+}
+/*
+body {
+  background: radial-gradient(black, blue, white);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+*/
+/*
+* {
+  color: #FFFFFF;
+}
+*/
+
+.intro{
+  color: black;
+  display: block;
+}
+h1 {
+  color: brown;
+  font-size: 50px;
+}
+h1, h2 {
+  color: orange;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/*
+img {
+
+}
+*/
+/*
+.videos {
+  display: inline-block;
+  border: .05px;
+  width: 100%;
+  height: 75px;
+*/
+/*  vertical-align: middle;
+  display: block;
+  margin: 0 auto;
+  vertical-align: middle;
+  */
+}
+.seccion-cast {
+  box-sizing: border-box;
+  display: inline-block;
+  border: 0;
+  width: 100%;
+  height: 100vh;
+  vertical-align: middle;
+  background-color: blue;
+}
